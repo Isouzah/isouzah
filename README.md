@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hello World!, Bem Vindos ao meu GITHUB.
+
+
+- Meu nome é Igor Souza.
+- Nascido em 97.
+- Estudante de Ciencias da Computação.
+- Tenho Inglês Avançado
+
+
+- 📫 Pode me contactar por:
+1. Telefone: +55 21 979556050
+2. Email: Igsouzah@gmail.com
+
 
 <!--
 **Isouzah/isouzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
