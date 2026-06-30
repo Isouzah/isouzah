@@ -2,8 +2,7 @@
 
 - 🙇 Meu nome é Igor Souza.
 - 👶 Nascido em 97.
-- 💻 Estudante de Ciencias da Computação.
-- 🐾 Fazendo curso na DIO.
+- 💻 Formado em Ciencias da Computação.
 - 💬 Tenho Inglês Avançado.
 
 
